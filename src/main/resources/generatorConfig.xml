@@ -64,7 +64,7 @@
             <property name="enableSubPackages" value="false" />
         </javaClientGenerator>
         <!-- 指定数据库表 -->
-        <table tableName="demand" domainObjectName="Demand"
+        <table tableName="sys_area" domainObjectName="SysArea"
                enableSelectByExample="false" enableDeleteByExample="false"
                enableCountByExample="false" enableUpdateByExample="fasle">
         </table>
